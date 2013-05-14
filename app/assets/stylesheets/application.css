@@ -1,5 +1,5 @@
 /*
  *= require_self
- *= require_tree .
- */
+*/
 @import 'reset'
+@import 'defaults/headings'
