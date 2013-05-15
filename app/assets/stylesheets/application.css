@@ -1,5 +1,5 @@
 /*
  *= require_self
-*/
-@import 'reset'
-@import 'defaults/headings'
+ *= require _reset
+ *= require portfolio/defaults/headings
+ */
