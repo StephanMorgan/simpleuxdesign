@@ -2,4 +2,5 @@
  *= require_self
  *= require _reset
  *= require portfolio/defaults/headings
+ *= require portfolio/defaults/body
  */
